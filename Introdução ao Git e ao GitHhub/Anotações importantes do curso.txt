@@ -1,0 +1,5 @@
+Link para download do git: https://git-scm.com/downloads
+O git foi criado em 2005, por Linus Torvalds, esse que é um engenheiro de software.
+O Git Bash é um terminal extendido para otimizar o uso do Git. Dentro do Git existem 3 dividões para melhor entendimento do seu funcionamento, são elas o Git Init, o Git add e o Git commit.
+O Git init é para a criação de um projeto, o Git add sereve para mover arquivos, já o Git commit é para a criação de um terminal.
+
