@@ -1,5 +1,72 @@
-Link para download do git: https://git-scm.com/downloads
+
+        ÓLA, EU ME CHAMO ANA CAROLINA, SOU INICIANTE NA ÁREA DE PROGRAMAÇÃO E SEJA BEM-VINDO A MINHA PASTA COM ALGUMAS ANOTAÇÕES IMPORTANATES SOBRE O CURSO. :)
+
+
+Sobre a história da computação é importatante sabermos que é uma área de avanços comultativos que tem como 
+base as pesquisas (minimiza esforços e otimiza recursos) anteriores - novos paradigmas.
+A lógica ( Dedução, indução e hipótese) de programação visa a resolução de problemas, esse que é objeto de discussão e dúvida.
+
+
+O Algoritmo é uma sequência de passos que resolvem um problema, sobre seus pilares, temos:
+- Processamento de dados                                                    Para a construção de um algoritmo, temos:
+- Computador recebe, manipula e armazena                                     - Compreenção de problema
+- Entendido por um humano e por uma máquina                                  - Definir dados de entarda
+- Desceve o problema por meio de fluxograma                                  - Definir processamento
+- Codificação de acordo com a línguagem                                      - Definir dados de saída
+- Sequência de passos                                                        - Usar um método de construção
+- Execução de tarfas específicas                                             - Teste diagnóstico
+                                                                             
+
+O que são Funções?
+São blocos de instruções (código, nome e parâmetro) que realizam tarefas específicas - decomposição do algoritmo.
+Exibida em quatro passos:
+- Definição
+- Nome
+- Invocação
+- Váriavel local
+
+SOBRE GESTÃO DE PROJETO
+
+Tradicional Waterfall: Só permite que o projeto avance quando uma fase está intreiramente compelta.
+Definida em:
+- Escopo Definido na fase inicial
+- Fases e marcos
+- Só ver funcionando quando Termina
+- Resistência e mudança 
+
+Ágil: Software construído por partes incrementais, e cada parte executa-se em ciclo citerativo.
+Definida em:
+- Escopo definido ao longo do projeto
+- Por funcionalidade
+- Permitide a visualização ainda na parte inicial
+- Mudanças constantes
+
+Conhecendo cada componente e suas funções para a realização e entrega de um projeto.
+
+Produt Owner (PO)                                        Scrum Master (SM)                                        Time de desenvolvimento (DEV)
+- Apenas uma pessoa faz parte                            - Garante uso correto do fórum                           - Desenvolve
+- Representante na área de negócio                       - Facilitador                                            - Testa
+- Define a funcionalidade do Software                    - Auxilia a Equipe a remover impedimentos                - Cria
+- Entendimento do time                                   - Faz o time ficar independente                          - Faz o que é necessário para entregar o software funcionando
+- Prioriza Backlog
+
+
+SOBRE O GITHUB
 O git foi criado em 2005, por Linus Torvalds, esse que é um engenheiro de software.
 O Git Bash é um terminal extendido para otimizar o uso do Git. Dentro do Git existem 3 dividões para melhor entendimento do seu funcionamento, são elas o Git Init, o Git add e o Git commit.
 O Git init é para a criação de um projeto, o Git add sereve para mover arquivos, já o Git commit é para a criação de um terminal.
 
+Importante saber sobre o .NET: É um framework criado pela microsoft que permite a comunicação dentre várias línguagens que tem uma infraestrutura comum (CLI)
+entre elas o visual básic C++
+
+Importante saber sobre o C#: Orientada á objetos formentipada. A sintaxe orientada a objetos foi baseada no C++ e possui influências de outras
+línguagens de programação como Java.
+
+Namespace: É usado para organizar o código
+Classe: Pode conter campos propriedades, métodos e eventos dentro dela que são denominadas membros.
+Interface: É como uma classe base que serve de molde para várias classes.
+Enum: Declara um conjunto de constantes nomeadas que começam do 0 e aumentam de 1 em 1.
+Depuração: Deve ser feita colocando um BreakPoint no canto esquerdo do código ou apertando f9 e executando ele.
+
+
+Link para download do git: https://git-scm.com/downloads
